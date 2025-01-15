@@ -7,3 +7,7 @@ Previously, I graduated from the University of Massachusetts Amherst with a Bach
 # 💻 Programming:
 • R <br>
 • SAS
+
+
+# 📃 Publications:
+Zeng, M., Sarker, B., Rondthaler, S. N., Vu, V., & Andrews, L. B. (2023). Identifying LASR Quorum Sensors with Improved Signal Specificity by Mapping the Sequence-Function Landscape. https://doi.org/10.1101/2023.08.21.554225 
